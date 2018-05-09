@@ -1,1 +1,1 @@
-Sub script for the "GREP Search and Replace" script.
+Sub script for the "Format Phone Numbers" script.
